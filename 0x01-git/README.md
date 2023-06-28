@@ -1,1 +1,1 @@
-okay man
+Last man standing
