@@ -1,2 +1,3 @@
-SAP guys let's push this project by th end of the day we must be done.
-clients are going crazy. 
+Guys this is the end of our first github project.
+Let's push one more time guys.
+Just few more commands and code.
